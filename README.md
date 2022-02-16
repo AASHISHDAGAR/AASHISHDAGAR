@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AASHISHDAGAR
 - 👀 I’m interested in ML/AI technologies
-- 🌱 I’m currently learning ML/Dl
+- 🌱 I’m currently learning ML/DL
 - 💞️ I’m looking to collaborate on project related to python,ML,DS
 - 📫 How to reach me ...
 
